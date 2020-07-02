@@ -1,0 +1,17 @@
+C:\Users\Sameer\Desktop\Restaurant System\x64\Debug\Restaurant System.vcxprojAssemblyReference.cache
+C:\Users\Sameer\Desktop\Restaurant System\x64\Debug\RestaurantSystem.addEmployees.resources
+C:\Users\Sameer\Desktop\Restaurant System\x64\Debug\RestaurantSystem.confirmOrder.resources
+C:\Users\Sameer\Desktop\Restaurant System\x64\Debug\RestaurantSystem.continental.resources
+C:\Users\Sameer\Desktop\Restaurant System\x64\Debug\RestaurantSystem.dessert.resources
+C:\Users\Sameer\Desktop\Restaurant System\x64\Debug\RestaurantSystem.drinks.resources
+C:\Users\Sameer\Desktop\Restaurant System\x64\Debug\RestaurantSystem.FASTFOOD1.resources
+C:\Users\Sameer\Desktop\Restaurant System\x64\Debug\RestaurantSystem.mainForm.resources
+C:\Users\Sameer\Desktop\Restaurant System\x64\Debug\RestaurantSystem.managerLogin.resources
+C:\Users\Sameer\Desktop\Restaurant System\x64\Debug\RestaurantSystem.pakistani.resources
+C:\Users\Sameer\Desktop\Restaurant System\x64\Debug\RestaurantSystem.placeOrder.resources
+C:\Users\Sameer\Desktop\Restaurant System\x64\Debug\RestaurantSystem.removeEmployees.resources
+C:\Users\Sameer\Desktop\Restaurant System\x64\Debug\RestaurantSystem.staffLogin.resources
+C:\Users\Sameer\Desktop\Restaurant System\x64\Debug\RestaurantSystem.viewEmployees.resources
+C:\Users\Sameer\Desktop\Restaurant System\x64\Debug\Restaurant System.vcxproj.GenerateResource.cache
+C:\Users\Sameer\Desktop\Restaurant System\x64\Debug\Restaurant System.exe
+C:\Users\Sameer\Desktop\Restaurant System\x64\Debug\Restaurant System.pdb

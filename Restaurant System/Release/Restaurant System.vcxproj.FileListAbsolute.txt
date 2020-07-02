@@ -1,0 +1,16 @@
+C:\Users\Sameer\Desktop\Restaurant System\Release\Restaurant System.vcxprojAssemblyReference.cache
+C:\Users\Sameer\Desktop\Restaurant System\Release\RestaurantSystem.addEmployees.resources
+C:\Users\Sameer\Desktop\Restaurant System\Release\RestaurantSystem.confirmOrder.resources
+C:\Users\Sameer\Desktop\Restaurant System\Release\RestaurantSystem.continental.resources
+C:\Users\Sameer\Desktop\Restaurant System\Release\RestaurantSystem.dessert.resources
+C:\Users\Sameer\Desktop\Restaurant System\Release\RestaurantSystem.drinks.resources
+C:\Users\Sameer\Desktop\Restaurant System\Release\RestaurantSystem.fastfoods.resources
+C:\Users\Sameer\Desktop\Restaurant System\Release\RestaurantSystem.mainForm.resources
+C:\Users\Sameer\Desktop\Restaurant System\Release\RestaurantSystem.managerLogin.resources
+C:\Users\Sameer\Desktop\Restaurant System\Release\RestaurantSystem.pakistani.resources
+C:\Users\Sameer\Desktop\Restaurant System\Release\RestaurantSystem.placeOrder.resources
+C:\Users\Sameer\Desktop\Restaurant System\Release\RestaurantSystem.removeEmployees.resources
+C:\Users\Sameer\Desktop\Restaurant System\Release\RestaurantSystem.staffLogin.resources
+C:\Users\Sameer\Desktop\Restaurant System\Release\RestaurantSystem.viewEmployees.resources
+C:\Users\Sameer\Desktop\Restaurant System\Release\Restaurant System.vcxproj.GenerateResource.cache
+C:\Users\Sameer\Desktop\Restaurant System\Release\Restaurant System.exe

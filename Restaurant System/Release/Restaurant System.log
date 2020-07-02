@@ -1,0 +1,44 @@
+﻿  addEmployees.cpp
+  Chef.cpp
+  confirmOrder.cpp
+C:\Users\Sameer\Desktop\Restaurant System\confirmOrder.h(441,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sameer\Desktop\Restaurant System\confirmOrder.h(452,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sameer\Desktop\Restaurant System\confirmOrder.h(467,62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sameer\Desktop\Restaurant System\confirmOrder.h(487,85): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sameer\Desktop\Restaurant System\confirmOrder.h(510,108): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sameer\Desktop\Restaurant System\confirmOrder.h(537,131): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sameer\Desktop\Restaurant System\confirmOrder.h(539,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  continental.cpp
+  Customer.cpp
+C:\Users\Sameer\Desktop\Restaurant System\Customer.cpp(82,29): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  dessert.cpp
+  drinks.cpp
+  fastfoods.cpp
+  Food.cpp
+  mainForm.cpp
+C:\Users\Sameer\Desktop\Restaurant System\confirmOrder.h(441,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sameer\Desktop\Restaurant System\confirmOrder.h(452,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sameer\Desktop\Restaurant System\confirmOrder.h(467,62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sameer\Desktop\Restaurant System\confirmOrder.h(487,85): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sameer\Desktop\Restaurant System\confirmOrder.h(510,108): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sameer\Desktop\Restaurant System\confirmOrder.h(537,131): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sameer\Desktop\Restaurant System\confirmOrder.h(539,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Manager.cpp
+  managerLogin.cpp
+  pakistani.cpp
+  placeOrder.cpp
+C:\Users\Sameer\Desktop\Restaurant System\confirmOrder.h(441,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sameer\Desktop\Restaurant System\confirmOrder.h(452,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sameer\Desktop\Restaurant System\confirmOrder.h(467,62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sameer\Desktop\Restaurant System\confirmOrder.h(487,85): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sameer\Desktop\Restaurant System\confirmOrder.h(510,108): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sameer\Desktop\Restaurant System\confirmOrder.h(537,131): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sameer\Desktop\Restaurant System\confirmOrder.h(539,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  removeEmployees.cpp
+  Staff.cpp
+  staffLogin.cpp
+  viewEmployees.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  addEmployees.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Restaurant System.vcxproj -> C:\Users\Sameer\Desktop\Restaurant System\Release\Restaurant System.exe
